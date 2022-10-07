@@ -1,11 +1,11 @@
-#Instructions
+# Instructions
 
 The instructions for this activity are broken into two parts:
 Part 1: Create the Earthquake Visualization
 Part 2: Gather and Plot More Data (Optional)
 
 
-#2-BasicMap
+# 2-BasicMap
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 1. Get your dataset. To do so, follow these steps:
